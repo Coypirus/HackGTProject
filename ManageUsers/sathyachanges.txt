@@ -1,0 +1,4 @@
+Line 87 in settings.py
+Line 24 models.py
+
+Install MongoDB community and pip install djongo
